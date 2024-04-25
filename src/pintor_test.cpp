@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
     Dibujo d2;
 
     d1.AgregarLinea("Hola");
-    d2.Agregar.Linea("Otra Linea");
+    d2.AgregarLinea("Otra Linea");
 
     return 0;
 }
